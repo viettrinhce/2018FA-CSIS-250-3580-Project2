@@ -1,0 +1,531 @@
+2018-11-20 21:01:34,778 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 21:01:34,778 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 21:01:36,788 - 140 - except: [Errno 2] No such file or directory: 'el cajon.jpg'
+2018-11-20 21:01:36,788 - 89 - successfully requested new content
+2018-11-20 21:01:36,804 - 89 - content cached
+2018-11-20 21:01:41,935 - 140 - except: [Errno 2] No such file or directory: 'housing-out.jpg'
+2018-11-20 21:01:41,935 - 89 - successfully requested new content
+2018-11-20 21:01:41,952 - 89 - content cached
+2018-11-20 21:01:47,253 - 140 - except: [Errno 2] No such file or directory: 'housing-out.jpg'
+2018-11-20 21:01:47,253 - 89 - successfully requested new content
+2018-11-20 21:01:47,273 - 89 - content cached
+2018-11-20 21:01:52,160 - 140 - except: [Errno 2] No such file or directory: 'housing-out.jpg'
+2018-11-20 21:01:52,161 - 89 - successfully requested new content
+2018-11-20 21:01:52,170 - 89 - content cached
+2018-11-20 21:08:53,792 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 21:08:53,792 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 21:08:55,254 - 89 - successfully requested new content
+2018-11-20 21:08:55,273 - 89 - content cached
+2018-11-20 21:08:58,999 - 89 - successfully requested new content
+2018-11-20 21:08:59,004 - 89 - content cached
+2018-11-20 21:09:40,273 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 21:09:40,273 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 21:09:41,293 - 89 - successfully requested new content
+2018-11-20 21:09:41,298 - 89 - content cached
+2018-11-20 21:09:46,505 - 89 - successfully requested new content
+2018-11-20 21:09:46,523 - 89 - content cached
+2018-11-20 21:09:51,574 - 89 - successfully requested new content
+2018-11-20 21:09:51,579 - 89 - content cached
+2018-11-20 21:09:56,274 - 89 - successfully requested new content
+2018-11-20 21:09:56,279 - 89 - content cached
+2018-11-20 21:10:01,225 - 92 - response: 400
+2018-11-20 21:10:06,208 - 89 - successfully requested new content
+2018-11-20 21:10:06,214 - 89 - content cached
+2018-11-20 21:20:02,771 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 21:20:02,771 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 21:20:04,941 - 89 - successfully requested new content
+2018-11-20 21:20:04,947 - 89 - content cached
+2018-11-20 21:20:09,771 - 89 - successfully requested new content
+2018-11-20 21:20:09,832 - 89 - content cached
+2018-11-20 21:20:24,745 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 21:20:24,745 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 21:20:25,709 - 89 - successfully requested new content
+2018-11-20 21:20:25,713 - 89 - content cached
+2018-11-20 21:20:30,507 - 89 - successfully requested new content
+2018-11-20 21:20:30,513 - 89 - content cached
+2018-11-20 21:20:35,243 - 89 - successfully requested new content
+2018-11-20 21:20:35,247 - 89 - content cached
+2018-11-20 21:20:39,956 - 89 - successfully requested new content
+2018-11-20 21:20:39,961 - 89 - content cached
+2018-11-20 21:25:10,772 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 21:25:10,772 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 21:25:11,535 - 181 - except: get_featured_image() missing 1 required positional argument: 'self'
+2018-11-20 21:25:11,536 - 89 - successfully requested new content
+2018-11-20 21:25:11,538 - 89 - content cached
+2018-11-20 21:29:31,809 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 21:29:31,809 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 21:29:32,662 - 182 - except: get_featured_image() missing 1 required positional argument: 'self'
+2018-11-20 21:29:32,662 - 89 - successfully requested new content
+2018-11-20 21:29:32,663 - 89 - content cached
+2018-11-20 21:29:50,676 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 21:29:50,676 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 21:29:51,489 - 89 - successfully requested new content
+2018-11-20 21:29:51,493 - 89 - content cached
+2018-11-20 21:29:56,270 - 89 - successfully requested new content
+2018-11-20 21:29:56,275 - 89 - content cached
+2018-11-20 21:52:11,164 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 21:52:11,164 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 21:52:11,955 - 142 - except: [Errno 2] No such file or directory: 'C:/Python37/housingsensor v2/housingsensor\\housing-in.jpg'
+2018-11-20 21:52:11,956 - 89 - successfully requested new content
+2018-11-20 21:52:11,961 - 89 - content cached
+2018-11-20 21:52:17,068 - 142 - except: [Errno 2] No such file or directory: 'C:/Python37/housingsensor v2/housingsensor\\housing-in.jpg'
+2018-11-20 21:52:17,070 - 89 - successfully requested new content
+2018-11-20 21:52:17,109 - 89 - content cached
+2018-11-20 21:52:21,804 - 142 - except: [Errno 2] No such file or directory: 'C:/Python37/housingsensor v2/housingsensor\\housing-in.jpg'
+2018-11-20 21:52:21,805 - 89 - successfully requested new content
+2018-11-20 21:52:21,818 - 89 - content cached
+2018-11-20 21:54:04,136 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 21:54:04,136 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 21:54:05,544 - 89 - successfully requested new content
+2018-11-20 21:54:05,570 - 89 - content cached
+2018-11-20 21:54:10,413 - 89 - successfully requested new content
+2018-11-20 21:54:10,417 - 89 - content cached
+2018-11-20 21:54:15,220 - 89 - successfully requested new content
+2018-11-20 21:54:15,227 - 89 - content cached
+2018-11-20 21:58:53,341 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 21:58:53,342 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 21:58:54,191 - 89 - successfully requested new content
+2018-11-20 21:58:54,195 - 89 - content cached
+2018-11-20 21:58:58,973 - 89 - successfully requested new content
+2018-11-20 21:58:58,977 - 89 - content cached
+2018-11-20 22:00:16,793 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 22:00:16,793 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 22:00:17,572 - 89 - successfully requested new content
+2018-11-20 22:00:17,577 - 89 - content cached
+2018-11-20 22:00:22,238 - 89 - successfully requested new content
+2018-11-20 22:00:22,243 - 89 - content cached
+2018-11-20 22:00:35,525 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 22:00:35,526 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 22:00:36,193 - 89 - successfully requested new content
+2018-11-20 22:00:36,199 - 89 - content cached
+2018-11-20 22:00:41,205 - 89 - successfully requested new content
+2018-11-20 22:00:41,272 - 89 - content cached
+2018-11-20 22:03:21,767 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 22:03:21,768 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 22:03:22,658 - 89 - successfully requested new content
+2018-11-20 22:03:22,662 - 89 - content cached
+2018-11-20 22:03:27,370 - 89 - successfully requested new content
+2018-11-20 22:03:27,374 - 89 - content cached
+2018-11-20 22:03:32,119 - 89 - successfully requested new content
+2018-11-20 22:03:32,124 - 89 - content cached
+2018-11-20 22:18:45,908 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 22:18:45,909 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 22:18:47,185 - 90 - successfully requested new content
+2018-11-20 22:18:47,189 - 89 - content cached
+2018-11-20 22:18:52,148 - 90 - successfully requested new content
+2018-11-20 22:18:52,152 - 89 - content cached
+2018-11-20 22:18:56,919 - 90 - successfully requested new content
+2018-11-20 22:18:56,924 - 89 - content cached
+2018-11-20 22:20:28,961 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 22:20:28,962 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 22:20:29,752 - 90 - successfully requested new content
+2018-11-20 22:20:29,756 - 89 - content cached
+2018-11-20 22:20:34,735 - 90 - successfully requested new content
+2018-11-20 22:20:34,741 - 89 - content cached
+2018-11-20 22:20:39,529 - 90 - successfully requested new content
+2018-11-20 22:20:39,533 - 89 - content cached
+2018-11-20 22:22:14,288 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 22:22:14,288 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 22:22:15,165 - 90 - successfully requested new content
+2018-11-20 22:22:15,169 - 89 - content cached
+2018-11-20 22:22:19,978 - 90 - successfully requested new content
+2018-11-20 22:22:19,983 - 89 - content cached
+2018-11-20 22:22:24,670 - 90 - successfully requested new content
+2018-11-20 22:22:24,674 - 89 - content cached
+2018-11-20 22:22:29,472 - 90 - successfully requested new content
+2018-11-20 22:22:29,477 - 89 - content cached
+2018-11-20 22:23:17,383 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 22:23:17,383 - 41 - Sensor just woke up .. ready to be called
+2018-11-20 22:23:18,158 - 90 - successfully requested new content
+2018-11-20 22:23:18,162 - 89 - content cached
+2018-11-20 22:23:22,985 - 90 - successfully requested new content
+2018-11-20 22:23:22,989 - 89 - content cached
+2018-11-20 22:23:27,773 - 90 - successfully requested new content
+2018-11-20 22:23:27,777 - 89 - content cached
+2018-11-20 22:23:32,680 - 90 - successfully requested new content
+2018-11-20 22:23:32,685 - 89 - content cached
+2018-11-20 22:30:54,226 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 22:30:54,226 - 40 - Sensor just woke up .. ready to be called
+2018-11-20 22:30:55,065 - 89 - successfully requested new content
+2018-11-20 22:30:55,075 - 89 - content cached
+2018-11-20 22:30:58,837 - 89 - successfully requested new content
+2018-11-20 22:30:58,844 - 89 - content cached
+2018-11-20 22:42:46,697 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 22:42:46,697 - 40 - Sensor just woke up .. ready to be called
+2018-11-20 22:42:48,218 - 90 - successfully requested new content
+2018-11-20 22:42:48,222 - 89 - content cached
+2018-11-20 22:48:46,746 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 22:48:46,746 - 40 - Sensor just woke up .. ready to be called
+2018-11-20 22:48:47,453 - 90 - successfully requested new content
+2018-11-20 22:48:47,458 - 89 - content cached
+2018-11-20 22:48:52,453 - 90 - successfully requested new content
+2018-11-20 22:48:52,458 - 89 - content cached
+2018-11-20 22:55:40,844 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 22:55:40,844 - 40 - Sensor just woke up .. ready to be called
+2018-11-20 22:55:41,570 - 111 - except: can only concatenate str (not "int") to str
+2018-11-20 22:55:41,644 - 90 - successfully requested new content
+2018-11-20 22:55:41,650 - 89 - content cached
+2018-11-20 22:55:46,443 - 111 - except: can only concatenate str (not "int") to str
+2018-11-20 22:55:46,499 - 90 - successfully requested new content
+2018-11-20 22:55:46,504 - 89 - content cached
+2018-11-20 23:04:45,336 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 23:04:45,336 - 40 - Sensor just woke up .. ready to be called
+2018-11-20 23:04:46,258 - 112 - except: can only concatenate str (not "int") to str
+2018-11-20 23:04:46,326 - 91 - successfully requested new content
+2018-11-20 23:04:46,331 - 89 - content cached
+2018-11-20 23:04:51,205 - 112 - except: can only concatenate str (not "int") to str
+2018-11-20 23:04:51,256 - 91 - successfully requested new content
+2018-11-20 23:04:51,261 - 89 - content cached
+2018-11-20 23:14:46,159 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 23:14:46,159 - 40 - Sensor just woke up .. ready to be called
+2018-11-20 23:14:46,809 - 113 - except: can only concatenate str (not "int") to str
+2018-11-20 23:14:46,884 - 92 - successfully requested new content
+2018-11-20 23:14:46,889 - 89 - content cached
+2018-11-20 23:14:51,597 - 113 - except: can only concatenate str (not "int") to str
+2018-11-20 23:14:51,656 - 92 - successfully requested new content
+2018-11-20 23:14:51,661 - 89 - content cached
+2018-11-20 23:44:58,686 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 23:44:58,686 - 40 - Sensor just woke up .. ready to be called
+2018-11-20 23:45:00,191 - 92 - successfully requested new content
+2018-11-20 23:45:00,199 - 89 - content cached
+2018-11-20 23:45:05,421 - 95 - response: 400
+2018-11-20 23:59:42,312 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-20 23:59:42,312 - 40 - Sensor just woke up .. ready to be called
+2018-11-20 23:59:43,211 - 155 - except: get_featured_image() missing 1 required positional argument: 'self'
+2018-11-20 23:59:43,211 - 92 - successfully requested new content
+2018-11-20 23:59:43,222 - 89 - content cached
+2018-11-21 00:00:07,611 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 00:00:07,611 - 40 - Sensor just woke up .. ready to be called
+2018-11-21 00:00:08,387 - 155 - except: _get_image_value() missing 1 required positional argument: 'self'
+2018-11-21 00:00:08,388 - 92 - successfully requested new content
+2018-11-21 00:00:08,398 - 89 - content cached
+2018-11-21 00:00:33,929 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 00:00:33,929 - 40 - Sensor just woke up .. ready to be called
+2018-11-21 00:00:34,672 - 195 - except: _get_image_value() missing 1 required positional argument: 'self'
+2018-11-21 00:00:34,672 - 92 - successfully requested new content
+2018-11-21 00:00:34,674 - 89 - content cached
+2018-11-21 00:01:18,211 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 00:01:18,211 - 40 - Sensor just woke up .. ready to be called
+2018-11-21 00:01:19,207 - 195 - except: _get_image_value() missing 1 required positional argument: 'self'
+2018-11-21 00:01:19,207 - 92 - successfully requested new content
+2018-11-21 00:01:19,208 - 89 - content cached
+2018-11-21 00:02:04,512 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 00:02:04,512 - 40 - Sensor just woke up .. ready to be called
+2018-11-21 00:02:17,693 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 00:02:17,693 - 40 - Sensor just woke up .. ready to be called
+2018-11-21 00:02:18,597 - 93 - successfully requested new content
+2018-11-21 00:02:18,601 - 89 - content cached
+2018-11-21 00:02:40,370 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 00:02:40,370 - 40 - Sensor just woke up .. ready to be called
+2018-11-21 00:02:41,192 - 93 - successfully requested new content
+2018-11-21 00:02:41,197 - 89 - content cached
+2018-11-21 00:08:59,402 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 00:08:59,402 - 40 - Sensor just woke up .. ready to be called
+2018-11-21 00:21:50,725 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 00:21:50,725 - 40 - Sensor just woke up .. ready to be called
+2018-11-21 00:21:51,617 - 94 - successfully requested new content
+2018-11-21 00:21:51,622 - 89 - content cached
+2018-11-21 00:28:11,314 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 00:28:11,314 - 40 - Sensor just woke up .. ready to be called
+2018-11-21 00:28:12,270 - 94 - successfully requested new content
+2018-11-21 00:28:12,274 - 89 - content cached
+2018-11-21 00:28:17,227 - 94 - successfully requested new content
+2018-11-21 00:28:17,233 - 89 - content cached
+2018-11-21 00:28:21,860 - 97 - response: 400
+2018-11-21 00:32:19,676 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 00:32:19,693 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 00:32:23,314 - 94 - successfully requested new content
+2018-11-21 00:32:23,317 - 89 - content cached
+2018-11-21 00:32:28,117 - 94 - successfully requested new content
+2018-11-21 00:32:28,120 - 89 - content cached
+2018-11-21 00:32:32,903 - 94 - successfully requested new content
+2018-11-21 00:32:32,907 - 89 - content cached
+2018-11-21 00:40:54,201 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 00:40:54,214 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 00:40:55,004 - 94 - successfully requested new content
+2018-11-21 00:40:55,009 - 89 - content cached
+2018-11-21 00:40:58,717 - 94 - successfully requested new content
+2018-11-21 00:40:58,721 - 89 - content cached
+2018-11-21 00:46:20,551 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 00:46:20,564 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 00:46:23,521 - 94 - successfully requested new content
+2018-11-21 00:46:23,525 - 89 - content cached
+2018-11-21 00:46:28,522 - 94 - successfully requested new content
+2018-11-21 00:46:28,526 - 89 - content cached
+2018-11-21 00:46:33,186 - 94 - successfully requested new content
+2018-11-21 00:46:33,191 - 89 - content cached
+2018-11-21 15:03:56,821 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 15:03:57,148 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 15:03:58,504 - 94 - successfully requested new content
+2018-11-21 15:03:58,508 - 89 - content cached
+2018-11-21 15:04:03,786 - 94 - successfully requested new content
+2018-11-21 15:04:03,790 - 89 - content cached
+2018-11-21 15:04:09,036 - 94 - successfully requested new content
+2018-11-21 15:04:09,040 - 89 - content cached
+2018-11-21 15:07:17,247 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 15:07:17,263 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 15:07:18,385 - 94 - successfully requested new content
+2018-11-21 15:07:18,448 - 89 - content cached
+2018-11-21 15:07:23,262 - 94 - successfully requested new content
+2018-11-21 15:07:23,262 - 89 - content cached
+2018-11-21 15:08:54,141 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 15:08:54,157 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 15:08:54,781 - 97 - response: 400
+2018-11-21 15:08:59,573 - 94 - successfully requested new content
+2018-11-21 15:08:59,589 - 89 - content cached
+2018-11-21 15:17:21,057 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 15:17:21,057 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 15:17:22,276 - 94 - successfully requested new content
+2018-11-21 15:17:22,276 - 89 - content cached
+2018-11-21 15:17:27,451 - 94 - successfully requested new content
+2018-11-21 15:17:27,467 - 89 - content cached
+2018-11-21 15:19:30,682 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 15:19:30,698 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 15:19:31,590 - 94 - successfully requested new content
+2018-11-21 15:19:31,590 - 89 - content cached
+2018-11-21 15:25:23,559 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 15:25:23,575 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 15:25:24,651 - 94 - successfully requested new content
+2018-11-21 15:25:24,651 - 89 - content cached
+2018-11-21 15:26:11,675 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 15:26:11,691 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 15:26:12,706 - 94 - successfully requested new content
+2018-11-21 15:26:12,722 - 89 - content cached
+2018-11-21 15:27:37,782 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 15:27:37,797 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 15:27:39,247 - 94 - successfully requested new content
+2018-11-21 15:27:39,247 - 89 - content cached
+2018-11-21 15:27:44,334 - 94 - successfully requested new content
+2018-11-21 15:27:44,381 - 89 - content cached
+2018-11-21 15:27:49,164 - 94 - successfully requested new content
+2018-11-21 15:27:49,164 - 89 - content cached
+2018-11-21 15:27:53,979 - 94 - successfully requested new content
+2018-11-21 15:27:53,995 - 89 - content cached
+2018-11-21 15:27:58,119 - 94 - successfully requested new content
+2018-11-21 15:27:58,135 - 89 - content cached
+2018-11-21 15:28:02,932 - 94 - successfully requested new content
+2018-11-21 15:28:02,932 - 89 - content cached
+2018-11-21 15:28:07,791 - 94 - successfully requested new content
+2018-11-21 15:28:07,791 - 89 - content cached
+2018-11-21 15:28:12,510 - 94 - successfully requested new content
+2018-11-21 15:28:12,526 - 89 - content cached
+2018-11-21 15:29:43,668 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 15:29:43,684 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 15:29:44,464 - 94 - successfully requested new content
+2018-11-21 15:29:44,464 - 89 - content cached
+2018-11-21 15:29:49,626 - 94 - successfully requested new content
+2018-11-21 15:29:49,626 - 89 - content cached
+2018-11-21 15:33:47,713 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 15:33:47,728 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 15:33:48,251 - 94 - successfully requested new content
+2018-11-21 15:33:48,251 - 89 - content cached
+2018-11-21 15:33:53,052 - 94 - successfully requested new content
+2018-11-21 15:33:53,052 - 89 - content cached
+2018-11-21 15:33:56,842 - 94 - successfully requested new content
+2018-11-21 15:33:56,847 - 89 - content cached
+2018-11-21 15:34:02,090 - 94 - successfully requested new content
+2018-11-21 15:34:02,090 - 89 - content cached
+2018-11-21 15:34:05,972 - 94 - successfully requested new content
+2018-11-21 15:34:05,972 - 89 - content cached
+2018-11-21 15:34:10,060 - 97 - response: 400
+2018-11-21 15:34:14,863 - 94 - successfully requested new content
+2018-11-21 15:34:14,879 - 89 - content cached
+2018-11-21 15:35:38,112 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 15:35:38,128 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 15:35:38,869 - 94 - successfully requested new content
+2018-11-21 15:35:38,869 - 89 - content cached
+2018-11-21 15:35:43,963 - 94 - successfully requested new content
+2018-11-21 15:35:43,963 - 89 - content cached
+2018-11-21 15:35:48,766 - 94 - successfully requested new content
+2018-11-21 15:35:48,766 - 89 - content cached
+2018-11-21 15:35:53,544 - 94 - successfully requested new content
+2018-11-21 15:35:53,544 - 89 - content cached
+2018-11-21 15:35:58,490 - 94 - successfully requested new content
+2018-11-21 15:35:58,490 - 89 - content cached
+2018-11-21 15:36:03,341 - 94 - successfully requested new content
+2018-11-21 15:36:03,341 - 89 - content cached
+2018-11-21 15:36:08,048 - 94 - successfully requested new content
+2018-11-21 15:36:08,048 - 89 - content cached
+2018-11-21 15:36:12,841 - 94 - successfully requested new content
+2018-11-21 15:36:12,845 - 89 - content cached
+2018-11-21 15:37:32,122 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 15:37:32,122 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 15:37:32,855 - 94 - successfully requested new content
+2018-11-21 15:37:32,870 - 89 - content cached
+2018-11-21 15:37:37,716 - 94 - successfully requested new content
+2018-11-21 15:37:37,763 - 89 - content cached
+2018-11-21 15:37:42,517 - 94 - successfully requested new content
+2018-11-21 15:37:42,564 - 89 - content cached
+2018-11-21 15:38:58,775 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 15:38:58,791 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 15:38:59,450 - 94 - successfully requested new content
+2018-11-21 15:38:59,497 - 89 - content cached
+2018-11-21 15:39:04,264 - 94 - successfully requested new content
+2018-11-21 15:39:04,279 - 89 - content cached
+2018-11-21 15:39:09,052 - 94 - successfully requested new content
+2018-11-21 15:39:09,052 - 89 - content cached
+2018-11-21 15:39:12,852 - 94 - successfully requested new content
+2018-11-21 15:39:12,852 - 89 - content cached
+2018-11-21 15:39:17,606 - 94 - successfully requested new content
+2018-11-21 15:39:17,622 - 89 - content cached
+2018-11-21 15:39:22,337 - 94 - successfully requested new content
+2018-11-21 15:39:22,508 - 89 - content cached
+2018-11-21 15:39:27,228 - 94 - successfully requested new content
+2018-11-21 15:39:27,243 - 89 - content cached
+2018-11-21 15:39:32,057 - 94 - successfully requested new content
+2018-11-21 15:39:32,057 - 89 - content cached
+2018-11-21 16:19:13,145 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 16:19:13,157 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 16:19:14,500 - 94 - successfully requested new content
+2018-11-21 16:19:14,503 - 89 - content cached
+2018-11-21 16:19:18,859 - 94 - successfully requested new content
+2018-11-21 16:19:18,863 - 89 - content cached
+2018-11-21 16:19:24,062 - 94 - successfully requested new content
+2018-11-21 16:19:24,129 - 89 - content cached
+2018-11-21 16:19:28,532 - 94 - successfully requested new content
+2018-11-21 16:19:28,535 - 89 - content cached
+2018-11-21 16:19:32,721 - 94 - successfully requested new content
+2018-11-21 16:19:32,725 - 89 - content cached
+2018-11-21 16:19:37,997 - 94 - successfully requested new content
+2018-11-21 16:19:38,001 - 89 - content cached
+2018-11-21 16:23:37,002 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 16:23:37,014 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 16:23:38,138 - 94 - successfully requested new content
+2018-11-21 16:23:38,143 - 89 - content cached
+2018-11-21 16:23:42,223 - 94 - successfully requested new content
+2018-11-21 16:23:42,227 - 89 - content cached
+2018-11-21 16:23:45,848 - 97 - response: 400
+2018-11-21 16:23:51,046 - 94 - successfully requested new content
+2018-11-21 16:23:51,050 - 89 - content cached
+2018-11-21 16:23:55,262 - 94 - successfully requested new content
+2018-11-21 16:23:55,265 - 89 - content cached
+2018-11-21 16:23:59,395 - 94 - successfully requested new content
+2018-11-21 16:23:59,398 - 89 - content cached
+2018-11-21 16:24:03,450 - 94 - successfully requested new content
+2018-11-21 16:24:03,457 - 89 - content cached
+2018-11-21 16:24:08,673 - 94 - successfully requested new content
+2018-11-21 16:24:08,677 - 89 - content cached
+2018-11-21 16:24:13,758 - 94 - successfully requested new content
+2018-11-21 16:24:13,762 - 89 - content cached
+2018-11-21 16:27:28,418 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 16:27:28,430 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 16:27:29,512 - 94 - successfully requested new content
+2018-11-21 16:27:29,516 - 89 - content cached
+2018-11-21 16:27:48,361 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 16:27:48,373 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 16:27:49,291 - 94 - successfully requested new content
+2018-11-21 16:27:49,295 - 89 - content cached
+2018-11-21 16:27:53,417 - 94 - successfully requested new content
+2018-11-21 16:27:53,421 - 89 - content cached
+2018-11-21 16:27:57,493 - 94 - successfully requested new content
+2018-11-21 16:27:57,497 - 89 - content cached
+2018-11-21 16:28:02,627 - 94 - successfully requested new content
+2018-11-21 16:28:02,631 - 89 - content cached
+2018-11-21 16:28:07,790 - 94 - successfully requested new content
+2018-11-21 16:28:07,794 - 89 - content cached
+2018-11-21 16:28:12,862 - 94 - successfully requested new content
+2018-11-21 16:28:12,866 - 89 - content cached
+2018-11-21 16:28:17,900 - 94 - successfully requested new content
+2018-11-21 16:28:17,904 - 89 - content cached
+2018-11-21 16:28:22,987 - 94 - successfully requested new content
+2018-11-21 16:28:22,990 - 89 - content cached
+2018-11-21 16:33:00,707 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 16:33:00,707 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 16:33:01,819 - 94 - successfully requested new content
+2018-11-21 16:33:01,819 - 89 - content cached
+2018-11-21 16:33:06,968 - 94 - successfully requested new content
+2018-11-21 16:33:06,983 - 89 - content cached
+2018-11-21 16:33:11,046 - 94 - successfully requested new content
+2018-11-21 16:33:11,046 - 89 - content cached
+2018-11-21 16:33:14,735 - 97 - response: 400
+2018-11-21 16:33:19,766 - 94 - successfully requested new content
+2018-11-21 16:33:19,766 - 89 - content cached
+2018-11-21 16:33:24,889 - 94 - successfully requested new content
+2018-11-21 16:33:24,889 - 89 - content cached
+2018-11-21 16:33:30,002 - 94 - successfully requested new content
+2018-11-21 16:33:30,002 - 89 - content cached
+2018-11-21 16:33:34,077 - 94 - successfully requested new content
+2018-11-21 16:33:34,077 - 89 - content cached
+2018-11-21 16:33:38,220 - 94 - successfully requested new content
+2018-11-21 16:33:38,220 - 89 - content cached
+2018-11-21 16:47:55,234 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 16:47:55,250 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 16:47:56,344 - 94 - successfully requested new content
+2018-11-21 16:47:56,344 - 89 - content cached
+2018-11-21 16:48:00,486 - 94 - successfully requested new content
+2018-11-21 16:48:00,486 - 89 - content cached
+2018-11-21 16:48:05,564 - 94 - successfully requested new content
+2018-11-21 16:48:05,564 - 89 - content cached
+2018-11-21 16:50:08,079 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 16:50:08,079 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 16:50:09,515 - 94 - successfully requested new content
+2018-11-21 16:50:09,515 - 89 - content cached
+2018-11-21 17:07:16,423 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 17:07:16,436 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 17:07:17,663 - 94 - successfully requested new content
+2018-11-21 17:07:17,668 - 89 - content cached
+2018-11-21 17:11:16,590 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 17:11:16,602 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 17:11:18,315 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:18,374 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:18,400 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:18,425 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:18,451 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:18,477 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:18,504 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:18,531 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:18,557 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:18,584 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:18,585 - 94 - successfully requested new content
+2018-11-21 17:11:18,589 - 89 - content cached
+2018-11-21 17:11:22,675 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:22,703 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:22,728 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:22,754 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:22,779 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:22,803 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:22,848 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:22,876 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:22,901 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:22,925 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:22,926 - 94 - successfully requested new content
+2018-11-21 17:11:22,931 - 89 - content cached
+2018-11-21 17:11:27,682 - 97 - response: 400
+2018-11-21 17:11:32,480 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:32,506 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:32,531 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:32,557 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:32,583 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:32,608 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:32,633 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:32,658 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:32,684 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:32,710 - 181 - except: unknown file extension: --- Can't draw housing-out.jpg
+2018-11-21 17:11:32,711 - 94 - successfully requested new content
+2018-11-21 17:11:32,715 - 89 - content cached
+2018-11-21 17:14:34,397 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 17:14:34,410 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 17:14:35,131 - 94 - successfully requested new content
+2018-11-21 17:14:35,147 - 89 - content cached
+2018-11-21 17:14:39,980 - 182 - except: join() argument must be str or bytes, not 'tuple'--- Can't draw housing-out.jpg
+2018-11-21 17:14:40,008 - 182 - except: join() argument must be str or bytes, not 'tuple'--- Can't draw housing-out.jpg
+2018-11-21 17:14:40,036 - 182 - except: join() argument must be str or bytes, not 'tuple'--- Can't draw housing-out.jpg
+2018-11-21 17:14:40,063 - 182 - except: join() argument must be str or bytes, not 'tuple'--- Can't draw housing-out.jpg
+2018-11-21 17:14:40,091 - 182 - except: join() argument must be str or bytes, not 'tuple'--- Can't draw housing-out.jpg
+2018-11-21 17:14:40,119 - 182 - except: join() argument must be str or bytes, not 'tuple'--- Can't draw housing-out.jpg
+2018-11-21 17:14:40,146 - 182 - except: join() argument must be str or bytes, not 'tuple'--- Can't draw housing-out.jpg
+2018-11-21 17:14:40,172 - 182 - except: join() argument must be str or bytes, not 'tuple'--- Can't draw housing-out.jpg
+2018-11-21 17:14:40,199 - 182 - except: join() argument must be str or bytes, not 'tuple'--- Can't draw housing-out.jpg
+2018-11-21 17:14:40,226 - 182 - except: join() argument must be str or bytes, not 'tuple'--- Can't draw housing-out.jpg
+2018-11-21 17:14:40,227 - 94 - successfully requested new content
+2018-11-21 17:14:40,231 - 89 - content cached
+2018-11-21 17:16:39,021 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 17:16:39,033 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 17:16:40,123 - 94 - successfully requested new content
+2018-11-21 17:16:40,126 - 89 - content cached
+2018-11-21 17:16:44,181 - 94 - successfully requested new content
+2018-11-21 17:16:44,185 - 89 - content cached
+2018-11-21 17:29:43,607 - 73 - HousingSensor just woke up .. ready to be called
+2018-11-21 17:29:43,622 - 41 - Sensor just woke up .. ready to be called
+2018-11-21 17:29:44,654 - 94 - successfully requested new content
+2018-11-21 17:29:44,669 - 89 - content cached
