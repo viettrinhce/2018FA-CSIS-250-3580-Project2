@@ -130,7 +130,7 @@ class HousingSensor(SensorX):
         return timestamp
 
     def get_featured_image(self):
-        return os.path.join(os.path.dirname(__file__), 'images', self.props["featured_image"])
+        return os.path.join(os.path.dirname(__file__), 'images', self.props["featured_image"] + self.props["image_type"])
 
     def _get_image_value(self):
         """ Find all values of original image, font, directory"""
